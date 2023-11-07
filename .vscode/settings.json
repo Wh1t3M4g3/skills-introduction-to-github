@@ -1,0 +1,25 @@
+{
+    "editor.accessibilitySupport": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": true,
+    "diffEditor.experimental.showMoves": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    },
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "window.autoDetectColorScheme": false,
+    "screencastMode.keyboardOptions": {
+        "showCommands": false
+    },
+    "scm.alwaysShowRepositories": true,
+    "scm.alwaysShowActions": true,
+    "anycode.language.features": {
+        "folding": true
+    }
+}
